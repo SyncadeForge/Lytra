@@ -4,7 +4,7 @@ title: Vibrant Ventures 1.2.0
 subtitle: The Deep Caverns Update
 date: 2026-07-10
 type: major
-image: caverns-banner.png
+image: template.png
 ---
 
 Full markdown body goes here. This is what shows in the viewer when you open the note, and the first several words also become the auto-preview in the list.
@@ -18,4 +18,4 @@ Regular paragraphs, **bold text**, *italics*, and [links](https://example.com) a
 
 You can also embed images in the body by dropping them in the same game folder and referencing them:
 
-![A screenshot](caverns-screenshot.png)
+![A screenshot](template.png)
