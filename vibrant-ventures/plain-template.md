@@ -6,13 +6,11 @@ date: 2026-07-10
 type: minor
 ---
 
-Full markdown body goes here. This is what shows in the viewer when you open the note, and the first several words also become the auto-preview in the list.
+Lorem ipsum or sum. Idk, this placeholder shi...
 
-## You can use headers
+## Test hoe header
 
-Regular paragraphs, **bold text**, *italics*, and [links](https://example.com) all render in the viewer.
+Regular paragraphs, **bold text**, *italics*, and [links](https://example.com) son.
 
 - Bulleted lists work
 - Like this
-
-You can also embed images in the body by dropping them in the same game folder and referencing them:
