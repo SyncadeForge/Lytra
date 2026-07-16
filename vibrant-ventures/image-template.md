@@ -1,21 +1,21 @@
 ---
 version: 1.2.0
 title: Vibrant Ventures 1.2.0
-subtitle: The Deep Caverns Update
+subtitle: The Deep Nuts Update
 date: 2026-07-10
 type: major
 image: template.png
 ---
 
-Full markdown body goes here. This is what shows in the viewer when you open the note, and the first several words also become the auto-preview in the list.
+Full markdown body goes here. This is what shows in the viewer when chu's open the note, and bunky dunk test note.
 
-## You can use headers
+## Fuckin header
 
-Regular paragraphs, **bold text**, *italics*, and [links](https://example.com) all render in the viewer.
+Regular paragraphs, **bold text**, *italics*, and [links](https://example.com) all render in the blipper blopper.
 
 - Bulleted lists work
 - Like this
 
-You can also embed images in the body by dropping them in the same game folder and referencing them:
+Imma embed images in dis bitch by droppin dat hoe in tha same game folder and referencing it:
 
 ![A screenshot](template.png)
